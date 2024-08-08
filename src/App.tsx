@@ -32,14 +32,14 @@ function App() {
           Link
         </StyledBtn>
         <StyledBtn color="green" fontSize="30px">
-          Hello
+          Hello My good friend
         </StyledBtn>
         {/*<input type="text" />
         <input type="submit" />
         <input type="radio" />
         */}
 
-        <Krutilka fontSize="50px">SuperButton</Krutilka>
+        <Krutilka fontSize="70px">SuperButton</Krutilka>
         <StyledBtn primary color={myThema.colors.primary}>
           Обама
         </StyledBtn>
@@ -75,5 +75,3 @@ const Box = styled.div`
     flex-direction: column;
   }
 `;
-
-let den = Box;
