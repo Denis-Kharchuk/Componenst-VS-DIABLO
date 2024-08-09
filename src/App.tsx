@@ -32,7 +32,7 @@ function App() {
           Link
         </StyledBtn>
         <StyledBtn color="green" fontSize="30px">
-          Hello My good
+          Hello My good ыфаафаыафаыфафаыфаы
         </StyledBtn>
         {/*<input type="text" />
         <input type="submit" />
