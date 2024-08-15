@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Componenst-VS-DIABLO/static/css/main.31d6cfe0.css",
+    "main.js": "/Componenst-VS-DIABLO/static/js/main.e0b1f033.js",
+    "static/js/453.ed3810f9.chunk.js": "/Componenst-VS-DIABLO/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Componenst-VS-DIABLO/index.html",
+    "main.e0b1f033.js.map": "/Componenst-VS-DIABLO/static/js/main.e0b1f033.js.map",
+    "453.ed3810f9.chunk.js.map": "/Componenst-VS-DIABLO/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e0b1f033.js"
+  ]
+}
